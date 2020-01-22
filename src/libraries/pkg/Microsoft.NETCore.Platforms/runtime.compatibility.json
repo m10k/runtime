@@ -287,6 +287,52 @@
     "any",
     "base"
   ],
+  "asianux": [
+    "asianux",
+    "rhel",
+    "linux",
+    "unix",
+    "any",
+    "base"
+  ],
+  "asianux-x64": [
+    "asianux-x64",
+    "asianux",
+    "rhel-x64",
+    "rhel",
+    "linux-x64",
+    "linux",
+    "unix-x64",
+    "unix",
+    "any",
+    "base"
+  ],
+  "asianux.8": [
+    "asianux.8",
+    "asianux",
+    "rhel.8",
+    "rhel",
+    "linux",
+    "unix",
+    "any",
+    "base"
+  ],
+  "asianux.8-x64": [
+    "asianux.8-x64",
+    "asianux.8",
+    "asianux-x64",
+    "rhel.8-x64",
+    "asianux",
+    "rhel.8",
+    "rhel-x64",
+    "rhel",
+    "linux-x64",
+    "linux",
+    "unix-x64",
+    "unix",
+    "any",
+    "base"
+  ],
   "base": [
     "base"
   ],

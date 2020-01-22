@@ -132,6 +132,30 @@
         "linux-x64"
       ]
     },
+    "asianux": {
+      "#import": [
+        "rhel"
+      ]
+    },
+    "asianux-x64": {
+      "#import": [
+        "asianux",
+        "rhel-x64"
+      ]
+    },
+    "asianux.8": {
+      "#import": [
+        "asianux",
+        "rhel.8"
+      ]
+    },
+    "asianux.8-x64": {
+      "#import": [
+        "asianux.8",
+        "asianux-x64",
+        "rhel.8-x64"
+      ]
+    },
     "base": {
       "#import": []
     },

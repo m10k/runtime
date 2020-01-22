@@ -30,6 +30,13 @@
       <Architectures>x64</Architectures>
     </RuntimeGroup>
 
+    <RuntimeGroup Include="asianux">
+      <Parent>rhel</Parent>
+      <Architectures>x64</Architectures>
+      <Versions>8</Versions>
+      <ApplyVersionsToParent>true</ApplyVersionsToParent>
+    </RuntimeGroup>
+
     <RuntimeGroup Include="centos">
       <Parent>rhel</Parent>
       <Architectures>x64</Architectures>
